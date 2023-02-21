@@ -1,0 +1,28 @@
+v0.1 site scaffolding -> no content/coloring -> just layout/motion/sounds/icons
+- install tailwind/eslint
+- intro scene
+    - empty for now
+    - button to go to main content
+    - smooth transition
+- nav bar on left
+- about page
+- projects page
+- message page
+- icons
+- sounds on clicking
+- motions on page transitions
+
+
+v1 [after design]
+- intro scene content
+- nav styling
+- about content + style
+- projects content + style
+    - show previous iterations of site
+- message content + style
+- about content + style
+
+
+v1.1
+- portfolio [link in nav with arrow to indicate external link]
+- portfolio subdomain site
